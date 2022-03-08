@@ -1,0 +1,15 @@
+--calculated columns = when we want output of each row then chosse calculated columns
+--measure = derive single value,explicit mentioned same result,measure produce single or scalar value as 
+compared to calculated columns ,here agregated calculation happened
+--calculate function(master function) - many expect in many scenarios no defination
+
+DAX two types of fuction
+-which return single value or scalar value
+-return table
+
+
+row context when we write in calculated(curnt row automatically picked up) columns like two col multiplied
+column context 
+
+lookupvalue function doesnt need any relationsheep
+realted function require relationship
