@@ -13,3 +13,7 @@ column context
 
 lookupvalue function doesnt need any relationsheep
 realted function require relationship
+
+for finance_dashboard row to col transfromation
+cahnge type wih local after unpivot
+insert year then

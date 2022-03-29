@@ -12,3 +12,6 @@ row context when we write in calculated(curnt row automatically picked up) colum
 column context 
 
 lookupvalue function doesnt need any relationsheep
+realted function require relationship
+
+for finance_dashboard row to col transfromation
