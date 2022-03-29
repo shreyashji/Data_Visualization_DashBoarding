@@ -14,8 +14,8 @@
 - power bi dashboard file for refrence: my_finance_dashboard.pbix.
 
 ##STEPS TO FOLLOW FOR PERSONALIZED FINANCIAL DASHBOARD
-//https://www.youtube.com/watch?v=pqSoCa2NGj4
-//credits: codebasics Youtube channel
+--https://www.youtube.com/watch?v=pqSoCa2NGj4
+--credits: codebasics Youtube channel
 
 ###put all your data in excel file according to you just dont change the type of 1 row 
 -you can add more type by inerting new row & also new coln of months
@@ -31,8 +31,7 @@
 -close & apply
 -after close & apply in data pan where tabular columns are prsnt change date column type & format=daymmm yy
 
-####if you add new cols ,values in monthly ,to get this new dta ain power bi dashboard just refesh the data 
-####in the field option chosse the excel file table name and righ click and chosse refresh data
+-if you add new cols ,values in monthly ,to get this new dta ain power bi dashboard just refesh the data in the field option chosse the excel file table name and righ click and chosse refresh data
 
 
 
