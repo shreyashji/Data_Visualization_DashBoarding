@@ -2,7 +2,6 @@
 ## 1.Personal Financial Health/Status Dashboard;
 <img align='centre' src="https://github.com/shreyashji/Data_Visualization_DashBoarding/blob/master/Financial%20dashboard.JPG" width="500">
 
-
 - with KPIS like Networth , income , savings & expense %
 - Expense % ,Saving % with change in income MOM,Detailed Statement
 - Expense BreakDown,savings breakdown
